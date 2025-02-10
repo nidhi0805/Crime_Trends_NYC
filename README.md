@@ -1,16 +1,16 @@
-#NYC Crime Trends Analysis
+# NYC Crime Trends Analysis
 This repository contains the data analysis project for exploring crime trends in New York City, completed as part of Northeastern University's ALY6070 course.
 
-#Course
+## Course
 Communication and Data Visualisation - ALY6070
 
-#Instructor
+## Instructor
 Jack Bergerson
 
-#Overview
+## Overview
 This project analyzes the NYC Crimes dataset to uncover crime dynamics, identify trends, and offer insights to inform decision-making processes.
 
-#Objectives
+## Objectives
 Identify overall crime trends over the past decade.
 Analyze crime prevalence by boroughs and precincts.
 Examine crime rates by demographics like age, gender, and race.
@@ -19,7 +19,7 @@ Identify and analyze crime hotspots in NYC.
 Data
 The analysis utilizes variables such as Crime Type, Borough, Precinct, Age Group, Gender, Race, and Date/Time of Crime from the NYC Crimes dataset.
 
-#Methods
+## Methods
 Data Cleaning
 Descriptive Statistics
 Temporal Analysis
@@ -28,7 +28,8 @@ Demographic Analysis
 Visualizations
 The project includes various charts and maps to visually represent crime trends and patterns.
 
-#Tools Used
+## Tools Used
 Tableau for visualizations and data handling.
 
-#Dashboard: https://public.tableau.com/app/profile/nidhi.patel8589/viz/NYC_Crime_Trends/Dashboard1
+## Dashboard: 
+https://public.tableau.com/app/profile/nidhi.patel8589/viz/NYC_Crime_Trends/Dashboard1
